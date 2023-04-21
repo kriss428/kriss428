@@ -3,4 +3,4 @@
 <br/><br/>
 My stats
 <br/><br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kriss428&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kriss428&count_private=true&show_icons=true&theme=radical)
